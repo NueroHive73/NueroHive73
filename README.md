@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Sharon Varghese</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
@@ -13,7 +11,7 @@ preview
 
 - 👯 I’m looking to collaborate on **Backend Development**
 
-- 🤝 I’m looking for help for **Jarvis (my final year project)**
+- 🤝 I’m looking for help on **Jarvis (my final year project)**
 
 - ⚡ Fun fact **I think I am a noob in Tech**
 

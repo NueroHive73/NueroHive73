@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Project& Software Development**
 
-- 🤝 I’m had completed some test projects to enchance my sills
+- 🤝 I’m had completed some test projects to enchance my skills
 
 - ⚡ Fun fact **I think I am always a beginer in Technology**
 

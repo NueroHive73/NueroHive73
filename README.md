@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sharon Varghese</h1>
-<h2 align="center">A passionate frontend & backend developer from kerala,India</h2>
+<h2 align="center">A Passionate Software Developer from Kochi,India</h2>
 
-- 🔭 I’m currently working on **Iris-an Intelligent Personal Assistant**
+- 🔭 I’m currently working on **Jarvis (my final year project)**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript**
+- 🌱 I’m currently learning **HTML,CSS,Javascript (MERN)**
 
-- 👯 I’m looking to collaborate on **Backend Development**
+- 👯 I’m looking to collaborate on **Project& Software Development**
 
-- 🤝 I’m looking for help on **Jarvis (my final year project)**
+- 🤝 I’m had completed some test projects to enchance my skills
 
-- ⚡ Fun fact **I think I am a noob in Tech**
+- ⚡ Fun fact **I think I am always a beginer in Technology**
 
 <p align="left">
 </p>

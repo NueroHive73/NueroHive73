@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharon Varghese</h1>
 <h2 align="center">A Passionate Software Developer from Kochi,India</h2>
 
-- 🔭 I’m currently working on **Iris-an Intelligent Personal Assistant** & **Jarvis (my final year project)**
+- 🔭 I’m currently working on **Jarvis (my final year project)**
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript (MERN)**
 

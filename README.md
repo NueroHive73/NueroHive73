@@ -69,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
 </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://iconscout.com/free-icon/canva-3823975_3175197" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3823975-3175197.png" alt="Canva" width="40" height="40"/>
 </a>
 
   

@@ -1,3 +1,6 @@
+<img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner.png" alt="banner" style="width:100%;"/>
+
+
 <h1 align="center">Hi 👋, I'm Sharon Varghese</h1>
 <h2 align="center">A Passionate Software Developer from Kochi, India</h2>
 
@@ -6,6 +9,21 @@
 - 👯 I’m looking to collaborate on **Project & Software Development**  
 - 🤝 I’ve completed some test projects to enhance my skills  
 - ⚡ Fun fact: **I always feel like a beginner in Technology**
+
+
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharon-varghese007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharonvs179@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -42,15 +60,19 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="Canva" width="40" height="40"/>
-  </a>
+
+  
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: brightness(150%)"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+</a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-canva-3628810-3030005.png" alt="Canva" width="40" height="40"/>
+</a>
+
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>

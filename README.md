@@ -1,17 +1,16 @@
 <img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner2.gif" alt="banner" style="width:100%;"/>
 
-
 <h1 align="center" style="color:#fefae0;">Hi there👋, I'm Sharon Varghese</h1>
-<h2 align="center" style="color:#fefae0;">I'm a passionate Software Developer from Kochi, India, with a strong interest in building scalable web applications and learning cutting-edge technologies. I am currently specializing in full-stack web development and love turning ideas into working code.</h2>
+<h2 align="center" style="color:#fefae0;">
+I'm a passionate Software Developer from Kochi, India, with a strong interest in building scalable web applications and learning cutting-edge technologies. I am currently specializing in full-stack web development and love turning ideas into working code.
+</h2>
 
 Apart from those:
 - 🔭 I’m currently working on **Jarvis (my final year project)**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript (MERN),git**  
+- 🌱 I’m currently learning **HTML, CSS, JavaScript (MERN), Git**  
 - 👯 I’m looking to future collaborations in **Project & Software Development**  
 - 🤝 I’ve done some test projects to enhance my skills  
 - ⚡ Fun fact: **I always feel like a beginner in Technology**
-
-
 
 ---
 
@@ -62,18 +61,15 @@ Apart from those:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
-  
- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: brightness(150%)"/>
-</a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-</a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3823975-3175197.png" alt="Canva" width="40" height="40"/>
-</a>
-
-  
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: brightness(150%)"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3823975-3175197.png" alt="Canva" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>

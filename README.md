@@ -1,9 +1,9 @@
 <img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner2.gif" alt="banner" style="width:100%;"/>
 
-<font color="#fefae0"><h1 align="center" style="color:#fefae0;">Hi there👋, I'm Sharon Varghese</h1></font>
-<font color="#fefae0"><h2 align="center" style="color:#fefae0;">
+<h1 align="center" style="color:#fefae0;">Hi there👋, I'm Sharon Varghese</h1>
+<h2 align="center" style="color:#fefae0;">
 I'm a passionate Software Developer from Kochi, India, with a strong interest in building scalable web applications and learning cutting-edge technologies. I am currently specializing in full-stack web development and love turning ideas into working code.
-</h2></font>
+</h2>
 
 Apart from those:
 - 🔭 I’m currently working on **Jarvis (my final year project)**  

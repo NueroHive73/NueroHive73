@@ -1,13 +1,14 @@
 <img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner2.gif" alt="banner" style="width:100%;"/>
 
 
-<h1 align="center">Hi 👋, I'm Sharon Varghese</h1>
-<h2 align="center">A Passionate Software Developer from Kochi, India</h2>
+<h1 align="center">Hi there👋, I'm Sharon Varghese</h1>
+<h2 align="center">I'm a passionate **Software Developer** from **Kochi, India**, with a strong interest in building scalable web applications and learning cutting-edge technologies. I am currently specializing in full-stack web development and love turning ideas into working code.</h2>
 
+Apart from those:
 - 🔭 I’m currently working on **Jarvis (my final year project)**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript (MERN)**  
-- 👯 I’m looking to collaborate on **Project & Software Development**  
-- 🤝 I’ve completed some test projects to enhance my skills  
+- 🌱 I’m currently learning **HTML, CSS, JavaScript (MERN),git**  
+- 👯 I’m looking to future collaborations in **Project & Software Development**  
+- 🤝 I’ve done some test projects to enhance my skills  
 - ⚡ Fun fact: **I always feel like a beginner in Technology**
 
 

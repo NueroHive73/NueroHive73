@@ -1,4 +1,4 @@
-<img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner.gif" alt="banner" style="width:100%;"/>
+<img src="https://github.com/NueroHive73/NueroHive73/blob/main/banner2.gif" alt="banner" style="width:100%;"/>
 
 
 <h1 align="center">Hi 👋, I'm Sharon Varghese</h1>

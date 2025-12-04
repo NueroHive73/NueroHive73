@@ -28,6 +28,16 @@ A bit more about me:
 
 ---
 
+## 🧠 Developer Mindset
+
+I believe in continuous learning, building in public, and improving through real-world experience. I value clean code, teamwork, and long-term growth over shortcuts.
+
+## 💼 Open to Opportunities
+
+I’m actively looking for internships, training programs, and entry-level software development roles where I can contribute, learn, and grow as a developer.
+
+
+---
 # My Skills
 
 ## 🎨 Creative Skills
@@ -155,6 +165,17 @@ A bit more about me:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NueroHive73&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+
+![Active Developer](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=NueroHive73&style=for-the-badge)
+
+## 🔥 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NueroHive73&theme=github-dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NueroHive73&theme=github_dark)
+
 
 ### ✍️ Random Dev Quote
 
